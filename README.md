@@ -2,4 +2,4 @@
 
 I'm an indie game developer and full-stack developer. Since I was 11, my dream has been to become a software engineer and build innovative real-world apps and games.
 
-**##`Digital Craftsgirl`**
+**`Indie Game Dev (Programming/ UI/UX/ Game Design & Level Design/ Problem Solving) `**
