@@ -20,9 +20,3 @@ Hi, I'm a game and full-stack developer.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-<!-- Statistiques GitHub -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unikill&show_icons=true&theme=radical" alt="Stats GitHub" />
-</p>
-```
