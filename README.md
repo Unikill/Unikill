@@ -1,7 +1,7 @@
 
 <!-- En-tête avec image de profil -->
-<h1 align="center">Salut !🌠 UNIKILL </h1>
-**`Digital Craftsgirl`**
+<h1 align="center">🌠 UNIKILL </h1>
+
 
 <p align="center">
   <img src="https://usagif.com/wp-content/uploads/gif/outerspace-18.gif" width="150" alt="Profile Image" />
