@@ -1,24 +1,24 @@
+Voici le code mis à jour avec **Unikill** à la place de Jane Doe :
 
+```markdown
 <!-- En-tête avec image de profil -->
-<h1 align="center">🌠 UNIKILL </h1>
-
+<h1 align="center">
+  Salut ! Je suis Unikill 👋<br>
+  <strong>Digital Craftsgirl</strong>
+</h1>
 
 <p align="center">
-  <img src="https://usagif.com/wp-content/uploads/gif/outerspace-18.gif" width="150" alt="Profile Image" />
+  <img src="https://your-image-link.com/profile.gif" width="150" alt="Profile Image" />
 </p>
 
 <!-- Bio courte -->
 <p align="center">
-  Hi, I'm an indie game developer and full-stack developer. 
-Since I was 11, my dream has been to become a software engineer.
+  Développeuse web | Passionnée par l'IA et le code open-source 💻✨
 </p>
 
 <!-- Statistiques / badges -->
 <p align="center">
-  <a href="https://github.com/Unikill">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://linkedin.com/in/Unikill">
+  <a href="https://linkedin.com/in/unikill">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
@@ -30,9 +30,18 @@ Since I was 11, my dream has been to become a software engineer.
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <!-- Statistiques GitHub -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=radical" alt="Stats GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=unikill&show_icons=true&theme=radical" alt="Stats GitHub" />
 </p>
+```
+
+Tous les liens et badges sont maintenant configurés pour **Unikill**.
+
+Si tu veux, je peux préparer une version **plus stylisée avec animations et GIFs intégrés** pour rendre le profil vraiment accrocheur.
