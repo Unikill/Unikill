@@ -2,10 +2,6 @@
 
 **``Digital Craftsgirl``**
 
-<p align="center">
-  <img src="https://your-image-link.com/profile.gif" width="150" alt="Profile Image" />
-</p>
-
 Hi, I'm a young game and full-stack developer.  
 I love working on all aspects of a project, whether it's design, programming, or anything else!
 
