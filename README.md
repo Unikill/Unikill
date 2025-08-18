@@ -1,6 +1,4 @@
-Voici le code mis à jour avec **Unikill** à la place de Jane Doe :
 
-```markdown
 <!-- En-tête avec image de profil -->
 <h1 align="center">
   Salut ! Je suis Unikill 👋<br>
@@ -41,7 +39,3 @@ Voici le code mis à jour avec **Unikill** à la place de Jane Doe :
   <img src="https://github-readme-stats.vercel.app/api?username=unikill&show_icons=true&theme=radical" alt="Stats GitHub" />
 </p>
 ```
-
-Tous les liens et badges sont maintenant configurés pour **Unikill**.
-
-Si tu veux, je peux préparer une version **plus stylisée avec animations et GIFs intégrés** pour rendre le profil vraiment accrocheur.
