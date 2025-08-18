@@ -8,14 +8,7 @@
 
 <!-- Bio courte -->
 <p align="center">
-  Développeuse web | Passionnée par l'IA et le code open-source 💻✨
-</p>
-
-<!-- Statistiques / badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/unikill">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+   Hi, I'm a game and full-stack developer. I love working on all aspects of a project, whether it's the design, programming, or anything else!
 </p>
 
 <!-- Technologies -->
