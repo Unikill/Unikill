@@ -5,8 +5,16 @@
 <p align="center">
   <img src="https://your-image-link.com/profile.gif" width="150" alt="Profile Image" />
 </p>
-Hi, I'm a young game and full-stack developer. 
-   I love working on all aspects of a project, whether it's the design, programming, or anything else!
+Hi, I'm a young game and full-stack developer.   
+
+
+
+
+
+
+
+
+I love working on all aspects of a project, whether it's the design, programming, or anything else!
 
 <!-- Technologies -->
 <p align="center">
