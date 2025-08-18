@@ -9,7 +9,6 @@ Hi, I'm a game and full-stack developer.
    I love working on all aspects of a project, whether it's the design, programming, or anything else!
 
 <!-- Technologies -->
-<h3 align="center">Technologies & Outils</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
