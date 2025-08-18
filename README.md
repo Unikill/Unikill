@@ -6,10 +6,7 @@
   <img src="https://your-image-link.com/profile.gif" width="150" alt="Profile Image" />
 </p>
 
-<!-- Bio courte -->
-<p align="center">
    Hi, I'm a game and full-stack developer. I love working on all aspects of a project, whether it's the design, programming, or anything else!
-</p>
 
 <!-- Technologies -->
 <h3 align="center">Technologies & Outils</h3>
