@@ -1,12 +1,7 @@
-# 🌠 UNIKILL
-
-**`Digital Craftsgirl`**
-
-Hi, I'm an indie game developer and full-stack developer. 
-Since I was 11, my dream has been to become a software engineer.
 
 <!-- En-tête avec image de profil -->
-<h1 align="center">Salut ! Je suis Jane Doe 👋</h1>
+<h1 align="center">Salut !🌠 UNIKILL </h1>
+**`Digital Craftsgirl`**
 
 <p align="center">
   <img src="https://usagif.com/wp-content/uploads/gif/outerspace-18.gif" width="150" alt="Profile Image" />
@@ -14,7 +9,8 @@ Since I was 11, my dream has been to become a software engineer.
 
 <!-- Bio courte -->
 <p align="center">
-  Développeuse web | Passionnée par l'IA et le code open-source 💻✨
+  Hi, I'm an indie game developer and full-stack developer. 
+Since I was 11, my dream has been to become a software engineer.
 </p>
 
 <!-- Statistiques / badges -->
