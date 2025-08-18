@@ -1,18 +1,19 @@
-  # 🌠 UNIKILL
+# 🌠 UNIKILL
 
-`Digital Craftsgirl`
+**Digital Craftsgirl**
 
 <p align="center">
   <img src="https://your-image-link.com/profile.gif" width="150" alt="Profile Image" />
 </p>
-Hi, I'm a young game and full-stack developer.   
 
+Hi, I'm a young game and full-stack developer.  
+I love working on all aspects of a project, whether it's design, programming, or anything else!
 
-I love working on all aspects of a project, whether it's the design, programming, or anything else!
+---
 
-<!-- Technologies -->
+## 🛠 Technologies & Tools
+
 <p align="center">
-<h1 h1/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
