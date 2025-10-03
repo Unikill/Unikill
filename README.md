@@ -1,5 +1,5 @@
 # UNIKILL
-<img src="[https://tenor.com/view/모찌냥-gif-9583682911714351529](https://tenor.com/view/github-sticker-gif-15436884578914915591)"/>
+<img src="https://media.tenor.com/images/xxxxxxxx.gif" alt="GIF mignon">
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
