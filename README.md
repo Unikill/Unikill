@@ -1,12 +1,5 @@
 # 🌠 UNIKILL
 
-**``Digital Craftsgirl``**
-
-Hi, I'm a young game and full-stack developer.  
-I love working on all aspects of a project, whether it's design, programming, or anything else!
-
-
-
 ## 🛠 Technologies & Tools
 
 <p align="center">
